@@ -26,7 +26,7 @@ from PyQt5.QtCore import QTimer
 class MyWindow(QDialog):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle('2022 Cvdl Hw1')
+        self.setWindowTitle('2022 OpenCvdl Hw2')
         self.initUI()
 
     def initUI(self):
