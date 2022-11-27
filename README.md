@@ -31,7 +31,7 @@ Using OpenCV functions to find how many rings in two images.
 #### Find Corners: 
 Find and draw the corners on the chessboard for each image.
 
-![](./img/find_corners.mp4)
+https://user-images.githubusercontent.com/80230645/204139990-c1163355-bf80-49d7-9152-f4ef33a5c9c5.mp4
 
 #### Augmented Reality : 
 Find and draw the corners on the chessboard for each image.
