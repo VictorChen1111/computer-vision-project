@@ -37,3 +37,11 @@ https://user-images.githubusercontent.com/80230645/204139990-c1163355-bf80-49d7-
 Find and draw the corners on the chessboard for each image.
 ![Augment Reality](./img/augment_reality.png)
 
+#### Stereo Disparity Map:
+Find the disparity map/image based on Left and Right stereo images.
+
+https://user-images.githubusercontent.com/80230645/204140614-e3a16f92-1499-4205-9c87-44e08d926ba7.mp4
+
+
+
+
